@@ -1,2 +1,2 @@
 # Students-lab
-My trainee tasks at iTechArt students lab 
+My trainee tasks at lab 
